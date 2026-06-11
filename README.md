@@ -9,3 +9,4 @@ This repository contains my solutions to all the problems of the HDL-Bits Verilo
 
 ## Contributors
 Michele Missiroli - <michelemissi.05@gmail.com>
+username: michelemi (182/182 problems solved 6/11/2026)
