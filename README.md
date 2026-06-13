@@ -8,6 +8,4 @@
 This repository contains my solutions to part of the problems of the HDL-Bits Verilog problem set.<br>
 
 ## Contributors
-Michele Missiroli - <michelemissi.05@gmail.com>
-
-username:  @michelemi (182/182 problems solved 6/11/2026)
+Michele Missiroli - username:  @michelemi (182/182 problems solved 6/11/2026)
